@@ -1,7 +1,7 @@
 # Om Chatbot - Sentimental Analysis
 
 ## Overview
-This project focuses on analyzing the sentiments of mental health statuses using machine learning techniques. By exploring a dataset of mental health-related text and performing preprocessing, visualization, and model training, we aim to accurately classify sentiments. This work lays the foundation for future applications, such as real-world mental health monitoring and chatbot development.
+This project focuses on analyzing the sentiments of mental health statuses using machine learning and Natural Language Processing (NLP). By leveraging fundamental NLP methods, we processed a dataset of 52,000+ mental health-related text samples, applying text cleaning, tokenization, and vectorization approaches. We trained and fine-tuned a logistic regression model, achieving a 72% F1-score in classifying text into categories such as anxiety, depression, and suicidal thoughts. This work serves as a foundation for future applications, such as real-world mental health monitoring and chatbot development.
 
 ## Features
 - Sentiment analysis using Logistic Regression model
